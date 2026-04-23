@@ -5,6 +5,10 @@ A tactile controller for your Mac. Music, apps, and live data, at your fingertip
 
 **[Sign up for the waitlist →](https://tally.so/r/KYPp6V)**
 
+<p align="center">
+  <img src="docs/images/minideck.png" alt="Mini Deck hardware" width="720" />
+</p>
+
 ---
 
 ## What is this?
@@ -27,9 +31,12 @@ Anything you can talk to over serial or Wi-Fi. A few starting points:
 
 A handful of reference apps ship with Batch 1 — Music, Pomodoro, and Claude Code push-to-talk to start, with more landing before ship. The rest is up to you! The API and config format are open.
 
-   
-
-Music · Pomodoro · Claude
+<p align="center">
+  <img src="docs/images/example-music.png" alt="Music player on Mini Deck" width="32%" />
+  <img src="docs/images/example-pomodoro.png" alt="Pomodoro timer on Mini Deck" width="32%" />
+  <img src="docs/images/example-claude.png" alt="Claude Code on Mini Deck" width="32%" />
+</p>
+<p align="center"><sub>Music · Pomodoro · Claude Code</sub></p>
 
 ## Why Mini Deck?
 
