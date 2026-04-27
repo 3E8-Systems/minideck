@@ -1,0 +1,43 @@
+# Environment & secrets
+.venv/
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+.eggs/
+dist/
+pip-wheel-metadata/
+
+# Tool caches
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Arduino / PlatformIO (local compile output)
+build/
+.pio/
+*.hex
+*.elf
+*.bin
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors / OS junk
+*.swp
+*.swo
+*~
+Thumbs.db
